@@ -24,23 +24,23 @@ const pages = [
         'zone-running-line': `
             <div class="ticker mod">
                 <h3>ФИКСАЦИЯ ОПЕРАЦИЙ</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ТОВАРНЫЙ УЧЕТ</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ФОРМИРОВАНИЕ АНАЛИТИЧЕСКИХ ОТЧЕТОВ</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ФИКСАЦИЯ ОПЕРАЦИЙ</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ТОВАРНЫЙ УЧЕТ</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ФОРМИРОВАНИЕ АНАЛИТИЧЕСКИХ ОТЧЕТОВ</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ФИКСАЦИЯ ОПЕРАЦИЙ</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ТОВАРНЫЙ УЧЕТ</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ФОРМИРОВАНИЕ АНАЛИТИЧЕСКИХ ОТЧЕТОВ</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
             </div>
         `,
 
@@ -109,29 +109,29 @@ const pages = [
         'zone-running-line': `
             <div class="ticker">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
             </div>
         `,
         'zone-project-cards-title': `
@@ -199,29 +199,29 @@ const pages = [
         'zone-running-line': `
             <div class="ticker">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
             </div>
         `,
         'zone-project-cards-title': `
@@ -281,29 +281,29 @@ const pages = [
         'zone-running-line': `
             <div class="ticker">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
             </div>
         `,
 
@@ -362,29 +362,29 @@ const pages = [
         'zone-running-line': `
             <div class="ticker">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ПОРТФОЛИО</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>1С</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
                 <h3>ЕГОР ЯШКИН</h3>
-                <img src="/assets/circle.svg" alt="circle" class="running-dot">
+                <img src="./assets/circle.svg" alt="circle" class="running-dot">
             </div>
         `,
 

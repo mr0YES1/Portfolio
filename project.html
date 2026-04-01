@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ЕГОР ЯШКИН </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="projects.css">
+</head>
+
+<body class="body">
+    <header class="header">
+        <div class="nav">
+            <nav>
+                <a href="index.html">ГЛАВНАЯ</a>
+            </nav>
+        </div>
+        <div class="btn-container">
+            <button class="btn" onclick="window.location.href='project.html'"> МОИ ПРОЕКТЫ </button>
+        </div>
+    </header>
+
+    <main class="main">
+        <!-- Навигационный блок -->
+        <div class="navigation-block">
+            <nav class="navigator">
+                <div class="indicator" id="zone-indicator" data-zone="nav">
+                </div>
+                <div class="nav-buttons" id="zone-buttons">
+                    <button class="arrow_pr" id="nav-prev">
+                        <img src="/assets/Arrow-1.svg" alt="arrow">
+                    </button>
+                    <button class="arrow_pr" id="nav-next">
+                        <img src="/assets/Arrow.svg" alt="arrow">
+                    </button>
+                </div>
+            </nav>
+            <div class="about-block-info">
+                <div class="heading-container">
+                    <p id="zone-description"></p>
+                    <h1 id="zone-config"></h1>
+
+                </div>
+                <h1 class="h1_accent" id="zone-accent-h1"></h1>
+            </div>
+        </div>
+        <script>
+        </script>
+
+        <!-- Блок иллюстраций -->
+        <div class="illustration-block" id="zone-slider">
+
+        </div>
+
+        <!-- Бегущая строка -->
+        <div class="running_line" id="zone-running-line">
+
+        </div>
+
+        <!-- Блок карточек -->
+        <div class="cards-block">
+            <h2 id="zone-project-cards-title"></h2>
+            <div class="cards-project" id="zone-cards-project">
+
+            </div>
+        </div>
+
+        <!-- Блок дополнительной информации -->
+        <div class="additional-info-block" id="trigger">
+            <div class="additional">
+                <div class="left-additional" id="zone-left-additional">
+
+                </div>
+                <div class="right-additional" id="zone-right-additional">
+
+                </div>
+            </div>
+            <div id="zone-additional-pic">
+            </div>
+        </div>
+        <button class="btn-go-to-top" onclick="window.scrollTo(0, 0)">
+            <img src="./assets/Arrow Vertical.svg" alt="arr">
+        </button>
+    </main>
+
+    <!-- футер -->
+    <footer class="footer_container" id="contacts">
+        <div class="footer">
+            <div class="icons_footer">
+                <img src="/assets/GIT.svg" alt="git">
+                <img src="/assets/TG.svg" alt="tg">
+            </div>
+            <h1>КОНТАКТЫ</h1>
+        </div>
+    </footer>
+    <script src="grabber.js"></script>
+    <script src="spa.js"></script>
+    <script src="scrollBtn.js"></script>
+</body>
+
+</html>

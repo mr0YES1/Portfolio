@@ -221,7 +221,7 @@ a:active {
 /* RUNNING LINE */
 
 .running_line {
-    width: 100vw;
+    width: 100%;
     overflow: hidden;
     display: flex;
     align-items: center;

@@ -351,6 +351,8 @@ a:active {
     display: flex;
     gap: 1rem;
     will-change: transform;
+    touch-action: pan-y;
+    cursor: grab;
 }
 
 .card_projects {
@@ -374,6 +376,10 @@ a:active {
     width: 100%;
     aspect-ratio: 16 / 9;
     object-fit: cover;
+
+    -webkit-user-drag: none;
+    user-select: none;
+    pointer-events: none;
 }
 
 .text_project {

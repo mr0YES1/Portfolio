@@ -61,7 +61,7 @@ function onStart(e) {
     lastT = performance.now()
     document.body.classList.add('dragging')
     cancelAnimationFrame(rafID)
-    if (e.cancelable) e.preventDefault()
+    
 }
 
 function onMove(e) {

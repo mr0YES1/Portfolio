@@ -115,6 +115,39 @@ function resetSlider(animate = true) {
     applyTransform(offset, animate) // плавно уедет на старт
     calcBounds()
 }
+
+function getRemInPx() {
+    return parseFloat(getComputedStyle(document.documentElement).fontSize)
+}
+
+const CARD = () => document.querySelector('.card_projects')
+
+function getStep() {
+    const card = CARD()
+    const gap = getRemInPx()
+    return toVW(card.offsetWidth + gap)
+}
+
+function moveNext() {
+    calcBounds()
+
+    const step = getStep()
+    const nextOffset = clamp(offset - step, minOffset, maxOffset)
+
+    offset = nextOffset
+    applyTransform(offset, true)
+}
+
+function movePrev() {
+    calcBounds()
+
+    const step = getStep()
+    const nextOffset = clamp(offset + step, minOffset, maxOffset)
+
+    offset = nextOffset
+    applyTransform(offset, true)
+}
+
 // ── Events ────────────────────────────────────────────────────────────────
 const vp = document.getElementById('zone-slider')
 
@@ -137,4 +170,7 @@ window.addEventListener('resize', () => {
 // ── Init ──────────────────────────────────────────────────────────────────
 calcBounds()
 applyTransform(offset, false)
+
+document.getElementById('btn-next').addEventListener('click', moveNext)
+document.getElementById('btn-prev').addEventListener('click', movePrev)
 

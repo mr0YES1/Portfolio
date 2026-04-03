@@ -74,8 +74,8 @@
 
 /* ILLUSTRATION & GRABBER */
 .illustration-block {
-    margin-top: 3rem;
     width: 100%;
+    margin-top: 3rem;
     height: 48.25dvh;
     overflow: hidden;
     display: flex;
@@ -250,7 +250,7 @@
 }
 
 .image-box {
-    width: 49.3%;
+    width: calc(50% - 0.5rem);
     display: flex;
     justify-content: center;
     align-items: center;
